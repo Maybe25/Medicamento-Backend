@@ -1,6 +1,6 @@
-# DAWII-Sesion03BackendFinalizado
-### Servicio Rest - Inicial
+DAWII Tarea (Backend - Fronted) medicamento
+### Servicio Rest - Backend  - Medicamento
 
 ## Autor ✒️
 
-* **Jorge Jacinto ** - [jorgejacinto9701](https://github.com/jorgejacinto9701)
+* **Julio Ramirez ** - [Julio Ramirez](https://github.com/)
